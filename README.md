@@ -28,16 +28,16 @@ This event is organized by the **Invictus Tech Club** and welcomes students from
 - Women Safety  
 - Construction
 
-[📄 View Domain Themes PDF »]((https://drive.google.com/file/d/1xs04gUVAfbjJTntzEvcDFLkrbXfkvrPe/view?usp=drive_link))
+[📄 View Domain Themes PDF »](https://drive.google.com/file/d/1xs04gUVAfbjJTntzEvcDFLkrbXfkvrPe/view?usp=drive_link)
 
 ---
 
 ## 📂 Resources
 
-- 📘 [Rulebook (PDF)]((https://drive.google.com/file/d/1PEzAe_c0DRzPMIJkikIJEA2FqdhX6tiL/view?usp=drive_link))
-- 📊 [Project Presentation Template (PPTX)]((https://docs.google.com/presentation/d/1uWszH-yXJqRpD5VkZ6IdQMchBo4QLfWM/edit?usp=drive_link&ouid=107137542100463847538&rtpof=true&sd=true))
-- 📌 [Registration Form (Closed)]((https://docs.google.com/forms/d/e/1FAIpQLSeiuFSman4hfwedWhNxzuiuwzSzu4uH4mwF35LNmlsH6oKuUg/viewform))
-- 🖼️ [Event Poster/Banner]((https://drive.google.com/file/d/1lbRdHinB7UcOkQWB2spWOrq6hE-nihLf/view?usp=drive_link))
+- 📘 [Rulebook (PDF)](https://drive.google.com/file/d/1PEzAe_c0DRzPMIJkikIJEA2FqdhX6tiL/view?usp=drive_link)  
+- 📊 [Project Presentation Template (PPTX)](https://docs.google.com/presentation/d/1uWszH-yXJqRpD5VkZ6IdQMchBo4QLfWM/edit?usp=drive_link&ouid=107137542100463847538&rtpof=true&sd=true)  
+- 📌 [Registration Form (Closed)](https://docs.google.com/forms/d/e/1FAIpQLSeiuFSman4hfwedWhNxzuiuwzSzu4uH4mwF35LNmlsH6oKuUg/viewform)  
+- 🖼️ [Event Poster/Banner](https://drive.google.com/file/d/1lbRdHinB7UcOkQWB2spWOrq6hE-nihLf/view?usp=drive_link)
 
 ---
 
@@ -63,11 +63,11 @@ Shortlisted teams build working prototypes and demonstrate core functionalities.
 
 ## 📞 Contact
 
-**Event Faculty Coordinators**  
-Dr. Vanshika Rastogi
+**Event Faculty Coordinator**  
+Dr. Vanshika Rastogi  
 
 **Event Coordinators**  
-Anagha Rajpurohit
+Anagha Rajpurohit  
 Dhakshil
 
 ---
