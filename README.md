@@ -61,6 +61,12 @@ Shortlisted teams build working prototypes and demonstrate core functionalities.
 
 ---
 
+## 🚀 Team Submissions
+
+Visit [SUBMISSIONS.md](./SUBMISSIONS.md) to explore all the submitted projects from ARCHITECT X-25 participants.
+
+---
+
 ## 📞 Contact
 
 **Event Faculty Coordinator**  
